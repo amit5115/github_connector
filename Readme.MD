@@ -333,3 +333,13 @@ Cloud AI / DevOps Engineer
 Give it a star ⭐ and share it!
 
 ---
+
+
+{
+  "mcpServers": {
+    "github": {
+      "command": "node",
+      "args": ["/Users/amitk30/Desktop/github_connector/dist/index.js"]
+    }
+  }
+}
